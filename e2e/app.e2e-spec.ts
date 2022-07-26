@@ -5,6 +5,8 @@ describe('angular-testing-course App', () => {
 
   beforeEach(() => {
     page = new AppPage();
+  
+
   });
 
   it('should display welcome message', () => {
